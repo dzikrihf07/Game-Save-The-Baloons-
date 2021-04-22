@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UIStart.unity
+    guid: f395fa90840037d41b36d63069547763
+  - enabled: 1
+    path: Assets/Scenes/SoalPenjumlahan.unity
+    guid: c562a10f7320bc34d9b5928a79b4acbe
+  - enabled: 1
+    path: Assets/Scenes/UIMenu.unity
+    guid: c8662962d0875b44488a2e05efe59801
+  m_configObjects: {}
