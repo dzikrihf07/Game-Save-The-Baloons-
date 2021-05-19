@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/UIMenu.unity
     guid: c8662962d0875b44488a2e05efe59801
+  - enabled: 1
+    path: Assets/Scenes/SoalPengurangan.unity
+    guid: 1dc7e5eb0b24cdb4ca820d4d5bab844a
+  - enabled: 1
+    path: Assets/Scenes/SoalPembagian.unity
+    guid: 608e837ba2676da4c86138536e28d3c9
+  - enabled: 1
+    path: Assets/Scenes/SoalPerkalian.unity
+    guid: 7aeaf63073a29d041a96e99a36453ded
   m_configObjects: {}

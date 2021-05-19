@@ -314,7 +314,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1127888277}
+      - m_Target: {fileID: 1071313759}
         m_MethodName: jawaban
         m_Mode: 6
         m_Arguments:
@@ -485,9 +485,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 544947611}
-        m_MethodName: jawaban
-        m_Mode: 6
+      - m_Target: {fileID: 2063446276}
+        m_MethodName: kurang
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -496,9 +496,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 2063446276}
-        m_MethodName: kurang
-        m_Mode: 1
+      - m_Target: {fileID: 1071313759}
+        m_MethodName: jawaban
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -774,7 +774,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 50
+  m_Text: 38
 --- !u!222 &154047383
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -924,7 +924,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 20
+  m_Text: 6
 --- !u!222 &196396253
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1448,8 +1448,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jo dan Dee adalah peri. Tinggi Jo adalah 8 sentimeter. Dee 7 sentimeter
-    lebih tinggi dari Jo. Berapakah tinggi Dee?
+  m_Text: Pak rudi mempunyai 49 ekor ayam lalu pak rudi menjual 31 ayamnya, sisa ayam
+    pak rudi sekarang adalah ?
 --- !u!222 &325581700
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1788,7 +1788,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1957844955}
+      - m_Target: {fileID: 2063446276}
+        m_MethodName: kurang
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1071313759}
         m_MethodName: jawaban
         m_Mode: 6
         m_Arguments:
@@ -1797,7 +1808,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 1
+          m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &408073018
 MonoBehaviour:
@@ -1866,7 +1877,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 997068994}
-  ClickSound: {fileID: 8300000, guid: 2e2e838a307e6e64a853480c56de3b52, type: 3}
+  ClickSound: {fileID: 8300000, guid: 4166fcdd5cd334f4c8f1f2f7131a1733, type: 3}
 --- !u!1 &464224347
 GameObject:
   m_ObjectHideFlags: 0
@@ -2078,7 +2089,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1961743472}
+      - m_Target: {fileID: 2063446276}
+        m_MethodName: kurang
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1071313759}
         m_MethodName: jawaban
         m_Mode: 6
         m_Arguments:
@@ -2087,7 +2109,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 1
+          m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &484917777
 MonoBehaviour:
@@ -2156,7 +2178,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 997068994}
-  ClickSound: {fileID: 8300000, guid: 2e2e838a307e6e64a853480c56de3b52, type: 3}
+  ClickSound: {fileID: 8300000, guid: 4166fcdd5cd334f4c8f1f2f7131a1733, type: 3}
 --- !u!1 &511763847
 GameObject:
   m_ObjectHideFlags: 0
@@ -2225,8 +2247,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Liv sudah menangkap 14 bola. Ira sudah menangkap 12 bola lebih banyak daripada
-    Liv. Berapa banyak bola yang sudah Ira tangkap?
+  m_Text: Bu siska menanam 27 bunga mawar dan bunga mawar yang sudah berbunga ada
+    17, bunga mawar yang belum berbunga ada berapa ?
 --- !u!222 &511763850
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2360,9 +2382,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 245437690}
-        m_MethodName: jawaban
-        m_Mode: 6
+      - m_Target: {fileID: 2063446276}
+        m_MethodName: kurang
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -2371,9 +2393,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 2063446276}
-        m_MethodName: kurang
-        m_Mode: 1
+      - m_Target: {fileID: 1071313759}
+        m_MethodName: jawaban
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -2738,7 +2760,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2090612499}
+      - m_Target: {fileID: 1071313759}
         m_MethodName: jawaban
         m_Mode: 6
         m_Arguments:
@@ -2863,7 +2885,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 11
+  m_Text: 10
 --- !u!222 &588716106
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3143,7 +3165,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1961743472}
+      - m_Target: {fileID: 1071313759}
         m_MethodName: jawaban
         m_Mode: 6
         m_Arguments:
@@ -3152,18 +3174,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 2063446276}
-        m_MethodName: kurang
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &631797226
 MonoBehaviour:
@@ -3232,7 +3243,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 997068994}
-  ClickSound: {fileID: 8300000, guid: 4166fcdd5cd334f4c8f1f2f7131a1733, type: 3}
+  ClickSound: {fileID: 8300000, guid: 2e2e838a307e6e64a853480c56de3b52, type: 3}
 --- !u!1 &638753067
 GameObject:
   m_ObjectHideFlags: 0
@@ -3352,7 +3363,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 23
+  m_Text: 5
 --- !u!222 &694364634
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3429,8 +3440,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Sinta membawa 35 buah buku gambar, Nabila membawa 9 buah buku gambar. Berapa
-    jumlah buku gambar yang dimiliki Sinta dan Nabila ?
+  m_Text: "seorang pedagang membeli 61 durian\r, ternyata 24 durian busuk\r. Berapa
+    banyak durian yang tidak busuk ?"
 --- !u!222 &713573424
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3538,7 +3549,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1071313759}
+      - m_Target: {fileID: 1071313760}
         m_MethodName: btPindah
         m_Mode: 1
         m_Arguments:
@@ -3652,7 +3663,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 997068994}
-  ClickSound: {fileID: 8300000, guid: 2e2e838a307e6e64a853480c56de3b52, type: 3}
+  ClickSound: {fileID: 8300000, guid: 4166fcdd5cd334f4c8f1f2f7131a1733, type: 3}
 --- !u!95 &726113471
 Animator:
   serializedVersion: 3
@@ -3723,7 +3734,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 638753069}
+      - m_Target: {fileID: 2063446276}
+        m_MethodName: kurang
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1071313759}
         m_MethodName: jawaban
         m_Mode: 6
         m_Arguments:
@@ -3732,7 +3754,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 1
+          m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &726113473
 MonoBehaviour:
@@ -3894,7 +3916,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 245437690}
+      - m_Target: {fileID: 1071313759}
         m_MethodName: jawaban
         m_Mode: 6
         m_Arguments:
@@ -4059,7 +4081,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 40
+  m_Text: 39
 --- !u!222 &745112107
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4208,8 +4230,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 15 ekor kucing masuk ke kandang, kemudian 8 ekor kucing lagi masuk ke kandang,
-    berapa jumlah kucing yang ada di kandang ?
+  m_Text: Pak ahmad menanam 25 bibit buah mangga dan ada 13 bibit buah mangga yang
+    mati, bibit buah mangga pak ahmad yang masih hidup tinggal ?
 --- !u!222 &764582270
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4364,7 +4386,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 21
+  m_Text: 5
 --- !u!222 &812971977
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4537,7 +4559,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 26
+  m_Text: 10
 --- !u!222 &866813990
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4845,9 +4867,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1127888277}
-        m_MethodName: jawaban
-        m_Mode: 6
+      - m_Target: {fileID: 2063446276}
+        m_MethodName: kurang
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -4856,9 +4878,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 2063446276}
-        m_MethodName: kurang
-        m_Mode: 1
+      - m_Target: {fileID: 1071313759}
+        m_MethodName: jawaban
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -5346,7 +5368,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 2
+  m_Text: 15
 --- !u!222 &1001417986
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5409,7 +5431,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 997068994}
-  ClickSound: {fileID: 8300000, guid: 2e2e838a307e6e64a853480c56de3b52, type: 3}
+  ClickSound: {fileID: 8300000, guid: 4166fcdd5cd334f4c8f1f2f7131a1733, type: 3}
 --- !u!95 &1019270084
 Animator:
   serializedVersion: 3
@@ -5480,7 +5502,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 740861893}
+      - m_Target: {fileID: 2063446276}
+        m_MethodName: kurang
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1071313759}
         m_MethodName: jawaban
         m_Mode: 6
         m_Arguments:
@@ -5489,7 +5522,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 1
+          m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1019270086
 MonoBehaviour:
@@ -5594,7 +5627,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 40
+  m_Text: 39
 --- !u!222 &1020696039
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5671,7 +5704,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 9
+  m_Text: 13
 --- !u!222 &1063335894
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5695,6 +5728,7 @@ GameObject:
   - component: {fileID: 1071313757}
   - component: {fileID: 1071313758}
   - component: {fileID: 1071313759}
+  - component: {fileID: 1071313760}
   m_Layer: 0
   m_Name: EventSystem
   m_TagString: Untagged
@@ -5797,7 +5831,19 @@ MonoBehaviour:
   m_GameObject: {fileID: 1071313752}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 12158afeb23c7b044afbedf39beab2b2, type: 3}
+  m_Script: {fileID: 11500000, guid: 30d658dc1cfe154459cf0b841ddfdd84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1071313760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1071313752}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02b59f7b25205104ebf91629b31f0b15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1101474388
@@ -5868,7 +5914,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 25
+  m_Text: 36
 --- !u!222 &1101474391
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5945,8 +5991,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Pak ahmad menanam 20 pohon mangga, Pak rudi menanam 30 pohon mangga. Jumlah
-    pohon mangga yang mereka tanam adalah ?
+  m_Text: Andi Membeli 56 Permen di warung, lalu ia memberikan 18 permen kepada adiknya,
+    sisa berapakah permen Andi sekarang ?
 --- !u!222 &1111667958
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6258,7 +6304,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 7 ekor kucing masuk ke kandang, kemudian 2 ekor kucing lagi masuk ke kandang,
+  m_Text: 17 ekor kucing masuk ke kandang, kemudian 2 ekor kucing keluar kandang,
     berapa jumlah kucing yang ada di kandang ?
 --- !u!222 &1256102433
 CanvasRenderer:
@@ -6336,7 +6382,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 23
+  m_Text: 32
 --- !u!222 &1260452669
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6516,7 +6562,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 44
+  m_Text: 37
 --- !u!222 &1335839086
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6617,7 +6663,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1957844955}
+      - m_Target: {fileID: 1071313759}
         m_MethodName: jawaban
         m_Mode: 6
         m_Arguments:
@@ -6626,18 +6672,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 2063446276}
-        m_MethodName: kurang
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &1341475721
 MonoBehaviour:
@@ -6706,7 +6741,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 997068994}
-  ClickSound: {fileID: 8300000, guid: 4166fcdd5cd334f4c8f1f2f7131a1733, type: 3}
+  ClickSound: {fileID: 8300000, guid: 2e2e838a307e6e64a853480c56de3b52, type: 3}
 --- !u!1 &1343428144
 GameObject:
   m_ObjectHideFlags: 0
@@ -6832,9 +6867,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 233331043}
-        m_MethodName: jawaban
-        m_Mode: 6
+      - m_Target: {fileID: 2063446276}
+        m_MethodName: kurang
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -6843,9 +6878,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 2063446276}
-        m_MethodName: kurang
-        m_Mode: 1
+      - m_Target: {fileID: 1071313759}
+        m_MethodName: jawaban
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -7014,7 +7049,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 522618007}
+      - m_Target: {fileID: 1071313759}
         m_MethodName: jawaban
         m_Mode: 6
         m_Arguments:
@@ -7128,8 +7163,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Bu ani mempunyai 24 bunga mawar, bu rika mempunyai 18 bunga mawar. Berapa
-    jumlah bunga mawar yang mereka punya ?
+  m_Text: Bu ani mempunyai 24 bunga mawar, bu rika meminjam 18 bunga mawar bu ani.
+    Berapa jumlah bunga mawar yang bu ani punya ?
 --- !u!222 &1437543880
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7237,7 +7272,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1071313759}
+      - m_Target: {fileID: 1071313760}
         m_MethodName: btPindah
         m_Mode: 1
         m_Arguments:
@@ -7743,7 +7778,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 233331043}
+      - m_Target: {fileID: 1071313759}
         m_MethodName: jawaban
         m_Mode: 6
         m_Arguments:
@@ -7843,7 +7878,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 997068994}
-  ClickSound: {fileID: 8300000, guid: 4166fcdd5cd334f4c8f1f2f7131a1733, type: 3}
+  ClickSound: {fileID: 8300000, guid: 2e2e838a307e6e64a853480c56de3b52, type: 3}
 --- !u!95 &1532343470
 Animator:
   serializedVersion: 3
@@ -7914,7 +7949,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 638753069}
+      - m_Target: {fileID: 1071313759}
         m_MethodName: jawaban
         m_Mode: 6
         m_Arguments:
@@ -7923,18 +7958,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 2063446276}
-        m_MethodName: kurang
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &1532343472
 MonoBehaviour:
@@ -8039,8 +8063,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Jika Dzikri memiliki 14 balon dan Toni memiliki 3 balon, maka jumlah balon
-    yang dimiliki Dzikri dan Toni berapa ? '
+  m_Text: "Jika andi mempunyai 20 kelereng, andi memberikan 10 kelerengnya kepada
+    budi\r, kelereng andi sekarang tinggal ?"
 --- !u!222 &1555983145
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8368,7 +8392,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 15
+  m_Text: 18
 --- !u!222 &1677859744
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8445,7 +8469,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 7
+  m_Text: 15
 --- !u!222 &1718522137
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8522,7 +8546,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 21
+  m_Text: 6
 --- !u!222 &1776834819
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8747,8 +8771,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Hans membuat 13 pagar untuk kudanya, sedangkan Merlin membuat 10 Pagar.
-    Berapa total pagar yg dibuat Hans dan Merlin ?
+  m_Text: Budi membeli 41 permen lalu hanna memakan 9 permen milik budi, berapa sisa
+    permen budi ?
 --- !u!222 &1843629433
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8856,7 +8880,18 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1071313759}
+      - m_Target: {fileID: 1071313756}
+        m_MethodName: btPindah
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1071313760}
         m_MethodName: btPindah
         m_Mode: 1
         m_Arguments:
@@ -8984,8 +9019,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Ada 8 buah balon yang sudah ditiup dan ada 12 balon yang belum ditiup, berapa
-    total balonnya ?
+  m_Text: "Ibu membeli 17 buah apel, ibu memberikan kepada rina 12 apel\r berapa apel
+    yang dimiliki ibu ?"
 --- !u!222 &1851412600
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9062,7 +9097,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 40
+  m_Text: 6
 --- !u!222 &1860503855
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9291,7 +9326,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 544947611}
+      - m_Target: {fileID: 1071313759}
         m_MethodName: jawaban
         m_Mode: 6
         m_Arguments:
@@ -9405,7 +9440,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 17
+  m_Text: 30
 --- !u!222 &1920174403
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10191,9 +10226,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2090612499}
-        m_MethodName: jawaban
-        m_Mode: 6
+      - m_Target: {fileID: 2063446276}
+        m_MethodName: kurang
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -10202,9 +10237,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 2063446276}
-        m_MethodName: kurang
-        m_Mode: 1
+      - m_Target: {fileID: 1071313759}
+        m_MethodName: jawaban
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -10384,9 +10419,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 522618007}
-        m_MethodName: jawaban
-        m_Mode: 6
+      - m_Target: {fileID: 2063446276}
+        m_MethodName: kurang
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -10395,9 +10430,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 2063446276}
-        m_MethodName: kurang
-        m_Mode: 1
+      - m_Target: {fileID: 1071313759}
+        m_MethodName: jawaban
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -10495,7 +10530,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 997068994}
-  ClickSound: {fileID: 8300000, guid: 4166fcdd5cd334f4c8f1f2f7131a1733, type: 3}
+  ClickSound: {fileID: 8300000, guid: 2e2e838a307e6e64a853480c56de3b52, type: 3}
 --- !u!95 &2120361753
 Animator:
   serializedVersion: 3
@@ -10566,7 +10601,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 740861893}
+      - m_Target: {fileID: 1071313759}
         m_MethodName: jawaban
         m_Mode: 6
         m_Arguments:
@@ -10575,18 +10610,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 2063446276}
-        m_MethodName: kurang
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &2120361755
 MonoBehaviour:
@@ -10691,7 +10715,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 42
+  m_Text: 5
 --- !u!222 &2124122430
 CanvasRenderer:
   m_ObjectHideFlags: 0
