@@ -1320,7 +1320,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1071313757}
+      - m_Target: {fileID: 1071313756}
         m_MethodName: btPindah
         m_Mode: 1
         m_Arguments:
@@ -5001,7 +5001,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1071313757}
+      - m_Target: {fileID: 1071313756}
         m_MethodName: btPindah
         m_Mode: 1
         m_Arguments:
