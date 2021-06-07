@@ -2656,7 +2656,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 997068994}
-  ClickSound: {fileID: 8300000, guid: 4166fcdd5cd334f4c8f1f2f7131a1733, type: 3}
+  ClickSound: {fileID: 8300000, guid: 278ef49c90283b646889d34f23de00e9, type: 3}
 --- !u!95 &572223232
 Animator:
   serializedVersion: 3
@@ -8253,7 +8253,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1071313757}
+      - m_Target: {fileID: 1071313756}
         m_MethodName: btPindah
         m_Mode: 1
         m_Arguments:
@@ -10155,7 +10155,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 997068994}
-  ClickSound: {fileID: 8300000, guid: 2e2e838a307e6e64a853480c56de3b52, type: 3}
+  ClickSound: {fileID: 8300000, guid: 278ef49c90283b646889d34f23de00e9, type: 3}
 --- !u!95 &2107542533
 Animator:
   serializedVersion: 3

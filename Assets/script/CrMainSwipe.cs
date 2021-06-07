@@ -12,7 +12,7 @@ public class CrMainSwipe : MonoBehaviour
     private float time;
     private Button takeTheBtn;
     int btnNumber;
-    
+
     // Start is called before the first frame update
     void Start()
     {
@@ -79,7 +79,6 @@ public class CrMainSwipe : MonoBehaviour
             if (scroll_pos < pos[i] + (distance / 2) && scroll_pos > pos[i] - (distance / 2))
             {
                 scrollbar.GetComponent<Scrollbar>().value = Mathf.Lerp(scrollbar.GetComponent<Scrollbar>().value, pos[btnNumber], 1f * Time.deltaTime);
-
             }
         }
         for (int i = 0; i < btn.transform.parent.transform.childCount; i++)
